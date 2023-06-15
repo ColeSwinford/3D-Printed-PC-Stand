@@ -18,6 +18,7 @@
 ## Printing notes
 - This design is strong enough to be printed at just 10% infill with a grid pattern, so very time/fillament efficient. I have tested this design with up to a 40 pound desktop (steel case, full of heavy components) with minimal flexing around where the case feet touch the stand. If this makes you uncormfotable, 20% infill should resolve this.
 - The prints are split into three parts for the body, so they will fit on any printer with a bed larger than 9 inches (ex. ender 3)
+- parts (1) and (3) are identical, but the files exist for completeness
 
 ## Pictures
 ### top-bias isometric view
