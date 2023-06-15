@@ -23,18 +23,21 @@ This design is strong enough to be printed at just 10% infill with a grid patter
 top bias isometric view
 
 
+
 ![bottom_bias_isometric_view](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/64f11afa-958d-4a6d-ba54-f1dcc3470135)
 bottom bias isometric view
+
 
 
 ![front](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/09590406-7d89-42ee-a00d-f0095b5059cb)
 front view
 
 
+
 ![bottom](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/1c08ace3-3f39-443a-95a4-3c3ffbdbfaa8)
 bottom view
 
 
-![top_connector](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/0fc385a4-bc37-4a88-9d31-61f31e55eab2)
 
+![top_connector](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/0fc385a4-bc37-4a88-9d31-61f31e55eab2)
 top connector view
