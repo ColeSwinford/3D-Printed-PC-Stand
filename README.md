@@ -32,7 +32,7 @@ This design is strong enough to be printed at just 10% infill with a grid patter
 ![bottom](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/1c08ace3-3f39-443a-95a4-3c3ffbdbfaa8)
 
 ### bottom view without connectors
-![bottom_without_connectors](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/aad4d059-eaa1-432e-8233-891c04e01bb2)
+![bottom_without_connectors](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/aa178c35-cda2-49f7-afb6-85f3ea3fa694)
 
 ### top connector view
 ![top_connector](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/0fc385a4-bc37-4a88-9d31-61f31e55eab2)
