@@ -2,7 +2,7 @@
 3D printed stand for ATX/Mid-tower cases
 
 ## Dimensions of stand (x, y, z)
-- (9, 18, 3) inches
+- (18, 9, 3) inches
 
 ## Dimensions of fasteners (x, y, z)
 - (2.75, 2.75, 0.75) inches
@@ -17,6 +17,7 @@
 
 ## Printing notes
 - This design is strong enough to be printed at just 10% infill with a grid pattern, so very time/fillament efficient. I have tested this design with up to a 40 pound desktop (steel case, full of heavy components) with minimal flexing around where the case feet touch the stand. If this makes you uncormfotable, 20% infill should resolve this.
+- Filament usage: ~650g of PLA was required at 10% infill and grid
 - The prints are split into three parts for the body, so they will fit on any printer with a bed larger than 9 inches (ex. ender 3)
 - parts (1) and (3) are identical, but the files exist for completeness
 
