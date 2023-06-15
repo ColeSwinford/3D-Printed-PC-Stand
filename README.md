@@ -19,20 +19,20 @@
 This design is strong enough to be printed at just 10% infill with a grid pattern, so very time/fillament efficient. I have tested this design with up to a 40 pound desktop (steel case, full of heavy components) with minimal flexing around where the case feet touch the stand. If this makes you uncormfotable, 20% infill should resolve this.
 
 ## Pictures
-### top bias isometric view
+### top-bias isometric view
 ![top_bias_isometric_view](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/f32b2473-6da2-4ff1-85fa-1abc1d32bcb7)
 
+### bottom-bias isometric view
 ![bottom_bias_isometric_view](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/64f11afa-958d-4a6d-ba54-f1dcc3470135)
-- bottom bias isometric view
 
+### front view
 ![front](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/09590406-7d89-42ee-a00d-f0095b5059cb)
-- front view
 
+### bottom view
 ![bottom](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/1c08ace3-3f39-443a-95a4-3c3ffbdbfaa8)
-- bottom view
 
+### bottom view without connectors
 ![bottom_without_connectors](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/aad4d059-eaa1-432e-8233-891c04e01bb2)
-- bottom view without connectors
 
+### top connector view
 ![top_connector](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/0fc385a4-bc37-4a88-9d31-61f31e55eab2)
-- top connector view
