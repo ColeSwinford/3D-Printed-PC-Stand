@@ -2,18 +2,18 @@
 3D printed stand for ATX/Mid-tower cases
 
 ## Dimensions of stand (x, y, z)
--(9, 18, 3) inches
+- (9, 18, 3) inches
 
 ## Dimensions of fasteners (x, y, z)
--(2.75, 2.75, 0.75) inches
+- (2.75, 2.75, 0.75) inches
 
 ## Hole diameter
--6.25mm, which is enough tolerance for a M6 (6mm) bolt to slot through tightly when printing with PLA
+- 6.25mm, which is enough tolerance for a M6 (6mm) bolt to slot through tightly when printing with PLA
 
 ## Other materials
--8 M6x50.0mm bolts
--8 M6 washers
--8 M6 nuts
+- 8 M6x50.0mm bolts
+- 8 M6 washers
+- 8 M6 nuts
 
 ## Printing notes
 This design is strong enough to be printed at just 10% infill with a grid pattern, so very time/fillament efficient. I have tested this design with up to a 40 pound desktop (steel case, full of heavy components) with minimal flexing around where the case feet touch the stand. If this makes you uncormfotable, 20% infill should resolve this.
