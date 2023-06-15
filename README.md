@@ -19,8 +19,8 @@
 This design is strong enough to be printed at just 10% infill with a grid pattern, so very time/fillament efficient. I have tested this design with up to a 40 pound desktop (steel case, full of heavy components) with minimal flexing around where the case feet touch the stand. If this makes you uncormfotable, 20% infill should resolve this.
 
 ## Pictures
+### top bias isometric view
 ![top_bias_isometric_view](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/f32b2473-6da2-4ff1-85fa-1abc1d32bcb7)
-- top bias isometric view
 
 ![bottom_bias_isometric_view](https://github.com/ColeSwinford/3D-Printed-PC-Stand/assets/19520329/64f11afa-958d-4a6d-ba54-f1dcc3470135)
 - bottom bias isometric view
